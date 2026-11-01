@@ -1,6 +1,6 @@
 KEYSA AMANDA — PORTFOLIO WEBSITE
 
-Desain versi 2: tanpa foto, dengan layout editorial, aksen biru, panel informasi,
+Desain versi: tanpa foto, dengan layout editorial, aksen biru, panel informasi,
 timeline pendidikan, pengalaman kerja, keahlian, dan kontak.
 
 Teknologi:
